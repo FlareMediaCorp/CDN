@@ -17,4 +17,7 @@ Please make sure to update tests as appropriate.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Powered by CloudFlare Railgun Technolgy (Certified Partner) and GitHub for Business.
+## Partners
+Powered by CloudFlare Railgun Technolgy (Certified Partner)
+GitHub for Business. (Business Partner)
+Adyen
