@@ -3,7 +3,7 @@ Content Delivery Network => https://cdn.flaremedia.eu
 
 ## Usage
 
-Just search for your libary you need in our CDN and then add it to your project.
+Simply search for the library you need on our CDN and then simply add it to your project.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
