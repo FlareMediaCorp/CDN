@@ -19,5 +19,7 @@ Please make sure to update tests as appropriate.
 
 ## Partners
 Powered by CloudFlare Railgun Technolgy (Certified Partner)
+
 GitHub for Business. (Business Partner)
+
 Adyen
